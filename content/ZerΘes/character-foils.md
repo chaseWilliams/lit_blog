@@ -2,7 +2,7 @@
 date = "2016-04-10T09:46:50-04:00"
 draft = true
 title = "Identifying Game-Changing Character Foils"
-
+tags = ["zeroes"]
 +++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eget nisi blandit, porta est eu, cursus quam. Suspendisse quam mi, consequat et nisi vel, maximus gravida purus. Nulla sit amet dapibus risus. Nunc nunc nibh, pharetra ut fermentum eget, varius ut ipsum. Fusce malesuada eu enim id fringilla. Curabitur vitae lacus hendrerit nisi mattis rutrum vel in velit. Cras et nisl vulputate augue vestibulum scelerisque. In eu sem purus. Suspendisse vitae lacus eget turpis porta rhoncus. Praesent finibus nec erat non auctor. Nam consequat eleifend pulvinar. Phasellus accumsan efficitur justo a varius. Pellentesque dapibus dolor sit amet tortor tempus, quis commodo ipsum lacinia. Cras feugiat magna vel felis molestie, sit amet volutpat mauris feugiat. Maecenas id dui in dui eleifend fringilla.
 

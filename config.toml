@@ -1,36 +1,19 @@
 baseurl = "http://humboldtux.github.io/sbcb-demo"
-title = "Start Bootstrap Clean Blog"
+title = "10H 2nd Semester Blog"
 canonifyurls = true
 paginate = 10
-theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
-copyright = "Code released under the Apache 2.0 license."
 
 [author]
-  name = "Benoît Benedetti"
-
-[params]
-  DateForm = "Mon, Jan 2, 2006"
-  Description = "Your site description"
-  Author = "Benoît Benedetti"
-  email = "benoit.benedetti@gmail.com"
-  Ganalytics = "XX-00000000-0"
-
-[[params.social]]
-  title = "twitter"
-  url = "https://twitter.com/humboldtux"
-[[params.social]]
-  title = "github"
-  url = "https://github.com/humboldtux"
-[[params.social]]
-  title = "facebook"
-  url = "https://www.facebook.com/FACEBOOKHANDLE"
+  name = "Chase Williams"
 
 [[menu.main]]
-  name = "home"
-  url = "/"
+  name = "ZerΘes"
+  url = "/zeroes"
   weight = -200
 [[menu.main]]
-  name = "Archives"
+  name = "The Water Knife"
   url = "/post/"
   weight = -180
+[params]
+  baseurl = "http://localhost:1313/sbcb-demo/"
